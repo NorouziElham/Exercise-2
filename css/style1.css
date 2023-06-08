@@ -1,0 +1,24 @@
+body{margin: 0px;}
+.left{position: relative;
+      display: inline-block;
+      padding-left: 10px;
+      padding-right: 100px;
+      
+       }
+.right{
+   
+    display: inline-block;
+    border-left: 3px solid rgb(24, 185, 24);
+    padding-left: 7px;
+    position: relative;
+       }
+.box{position: absolute;
+    width: 170px;
+    margin-left: 900px;
+    /* margin-right: 0%; */
+    border: 3px dashed rgb(15, 184, 15);
+    padding: 10px;
+    text-align: center;
+     }
+.bottom{margin: 20px;
+    text-align: center;}
